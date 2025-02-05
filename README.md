@@ -31,15 +31,17 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshWorksPlace&layout=compact&theme=radical)
+
 ![Someshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SomeshWorksPlace&show_icons=true&theme=radical)  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SomeshWorksPlace&theme=radical)
+
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=SomeshWorksPlace&theme=radical&row=1&column=3)
-![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=SomeshWorksPlace&theme=radical)
+
 ![Visitor Count](https://profile-counter.glitch.me/SomeshWorksPlace/count.svg)
 
 
 ## HackerRank Certificate:
 [![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Certificate-2E8B57)](https://www.hackerrank.com/certificates/764813b8ba02)
+
 [![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Certificate-2E8B57)](https://www.hackerrank.com/certificates/iframe/c853abfa1379))
 
 
