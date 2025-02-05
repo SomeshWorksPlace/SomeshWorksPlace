@@ -1,6 +1,6 @@
 # Hi there!👋 I'm Someshwar  
 
-### 🚀 Software Tester | .NET Developer | Content Creator  
+### 🚀 Software Developer | .NET Developer | Content Creator  
 
 - 🔭 I’m currently working on Software Development and .NET Development  
 - 🌱 Exploring **Freelancing **   
