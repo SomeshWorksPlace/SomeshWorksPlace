@@ -30,11 +30,9 @@ Here are some ideas to get you started:
 
 
 ## 🛠 Tech Stack & Skills  
-![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=dotnet&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=dotnet&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)  
-![Upwork](https://img.shields.io/badge/Upwork-FE9A2E.svg?style=flat&logo=upwork&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white) ![Upwork](https://img.shields.io/badge/Upwork-FE9A2E.svg?style=flat&logo=upwork&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)  
