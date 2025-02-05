@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Someshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SomeshWorksPlace&show_icons=true&theme=radical)  
 
 ## 🔗 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/SomeshWorksPlace)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/someshwarn/)  [![Portfolio](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://portfolio-somesh-kfk6.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/SomeshWorksPlace)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/someshwarn/)  [![Portfolio](https://img.shields.io/badge/https://portfolio-somesh-kfk6.vercel.app/)](https://portfolio-somesh-kfk6.vercel.app/)  
 
 ## ⚡ Fun Facts  
 - 🎵 **Music Lover** – Enjoys unplugged music and discovering new talent  
