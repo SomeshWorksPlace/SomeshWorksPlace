@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 ![Someshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SomeshWorksPlace&show_icons=true&theme=radical)  
 
 ## 🔗 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/SomeshWorksPlace)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/someshwarn/)  [![Portfolio](https://img.shields.io/badge/Portfolio-1D5C63.svg?style=flat&logo=vercel&logoColor=white)](https://portfolio-somesh-kfk6.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/SomeshWorksPlace)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/someshwarn/)  [![Portfolio](https://img.shields.io/badge/Portfolio-1D5C63.svg?style=flat&logo=vercel&logoColor=white)](https://portfolio-somesh-kfk6.vercel.app/)   [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=flat&logo=medium&logoColor=white)](https://medium.com/@your-medium-username)
+
 ## ⚡ Fun Facts  
 - 🎵 **Music Lover** – Enjoys unplugged music and discovering new talent  
 - 🎮 **Casual Gamer** – Loves exploring strategy & adventure games  
