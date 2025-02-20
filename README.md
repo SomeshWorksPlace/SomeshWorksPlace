@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 - 💻 **Code & Creativity** – Blending software development with storytelling  
 
 ---
-"""more abour me 
 
 ✨✨“The best way to predict the future is to create it.”✨✨
+
 ✨ _"Code, Learn, Create, and Inspire!"_ 🚀  
 
