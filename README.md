@@ -1,14 +1,14 @@
 # Hi there!👋 I'm Someshwar  
 
-### 🚀 Software Developer | .NET Developer | Content Creator  
-I'm a Junior Developer. I like to work on open-source projects and a passionate and dedicated .NET Developer specializing in ASP.NET, C#, and SQL Server.
+### 🚀 Software Developer || Content Creator  
+I'm a Junior Developer. I like to work on open-source projects and a passionate and dedicated specializing in ASP.NET, C#, and SQL Server.
 
 About me :
-- 🔭 I’m currently working on Software Development and .NET Development  
+- 🔭 I’m currently working on Software Development 
 - 🌱 Exploring **Freelancing for fun**   
 - ✍️ Writing **blogs & stories** in my free time --[https://medium.com/@someshne3]
 - 💡 Passionate about **technology, automation, and creativity**  
-- 🎯 Currently improving my **.NET, C#, SQL, and Testing Skills**  
+- 🎯 Currently improving my **JAVA, .NET, C#, SQL, and Testing Skills**  
 
 <!--
 **SomeshWorksPlace/SomeshWorksPlace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
